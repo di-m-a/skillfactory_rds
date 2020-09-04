@@ -1,5 +1,4 @@
 # skillfactory_rds
-# module_2
 # 
-# ~
-
+# proj 2
+# coming soon ...
