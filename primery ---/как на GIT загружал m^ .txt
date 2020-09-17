@@ -1,0 +1,43 @@
+
+"C:\Users\dmitryzh\skillfactory_rds\skillfactory_rds\module_1\[SF-DST] Movies IMBD v3.0.ipynb"
+
+git commit -m "(dz) Added [SF-DST] Movies IMBD v3.0.ipynb"
+
+
+  
+https://github.com/di-m-a/skillfactory_rds/tree/master/module_1
+
+ 
+------------------------------------------------
+
+Git CMD запустить
+
+dir
+
+cd ") skillfactory_rds"
+
+C:\Users\dmitryzh\) skillfactory_rds>git init
+
+C:\Users\dmitryzh\) skillfactory_rds>git status
+
+dir
+
+cd "module_^"
+
+dir
+
+git add "файл_задания_^" 
+git add "комментарий_задания_^" 
+git add ...
+
+git status
+
+git commit -m "(просто комментарий:) project 2"
+
+git push
+
+
+
+
+
+
